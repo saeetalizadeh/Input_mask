@@ -43,6 +43,3 @@ body {
   display: flex;
   align-items: center;
 }
-.input label:focus {
-  border-color: pink;
-}
